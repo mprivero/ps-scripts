@@ -9,8 +9,8 @@ Steps:
 4.  Change File type, Select javascript and press LOAD 
 
 
-While batch script is working, progress bar will flash by (see Figure C). 
-When script is done no message appears, just see blank PS screen.
-new crop files are created and stored in subfolder “edited”
+While batch script is working, progress bar may flash by. 
+When script is done no message appears, just see a blank PS screen.
+New cropped files are created and stored in subfolder “edited”. 
 filenames are appended with #001 notation
 
