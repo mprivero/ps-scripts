@@ -1,5 +1,5 @@
 # ps-scripts
-Batch Crop and Straighten Images
+To Batch Crop and Straighten Images.
 The following script is used to batch processing a folder of images
 
 Steps:
